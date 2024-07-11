@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=astg987)](https://solved.ac/astg987/)
 <!--
 **Serenata2/Serenata2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
